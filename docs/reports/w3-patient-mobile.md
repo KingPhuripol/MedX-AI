@@ -20,7 +20,6 @@ Not committed. Left `ios/`/`android/` absent (CNG).
 - Simulator (iPhone 17, iOS 27, Expo Go SDK 58): manual drive, see EVIDENCE. No automated UI tests written.
 
 ## EVIDENCE (docs/reports/screens/)
-- `mobile-1-language.png` language pick + privacy note.
 - `mobile-2-intake-it-typed.png` Italian intake, "Ho mal di testa da ieri sera" on ruled lines.
 - `mobile-3-followup-it.png` first answer in the ledger, "Domanda 1 di massimo 3", follow-up as next form line.
 - `mobile-4-done-it.png` done: "Un infermiere leggerà le sue risposte." + code B-014 + next steps (reached after 3 follow-ups).
